@@ -12,7 +12,7 @@ body{
 	width: 100px;
 	display: inline-block;
 	margin-right: 50px;
-	vertical-align: middle;
+	vertical-align: top;
 }
 .nav{
 	display: inline-block;
@@ -240,4 +240,7 @@ body{
 	padding-bottom: 41px;
 	margin-right: 52px;
 
+}
+.noactive{
+	color: #3D58A6;
 }
