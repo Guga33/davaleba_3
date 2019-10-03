@@ -2,13 +2,155 @@
 	color: #EE4036;
 }
 .nav-a{
-	font-size: 22px;
+	font-size: 25px;
 }
-.body{
+body{
 	padding-top: 30px;
 	padding-left: 30px;
 }
 .logo{
 	width: 100px;
+	display: inline-block;
+	margin-right: 50px;
+	vertical-align: middle;
+}
+.nav{
+	display: inline-block;
+}
+.nav-li{
+	display: inline-block;
+	margin-right: 21px;
+}
+.didi-fotka{
+	width: 1170px;
+	height: 480px;
+	margin-left: 98px;
+	margin-top: 77px;
+}
+.blue-box{
+	background: #3D58A6;
+	width: 56px;
+	height: 56px;
+	font-size: 48px;
+	color: white;
+	padding:6px 6px 6px 6px;
+	display: inline-block;
+}
+.blue-box1{
+	background: #3D58A6;
+	width: 56px;
+	height: 56px;
+	font-size: 48px;
+	color: white;
+	padding:6px 6px 6px 6px;
+	display: inline-block;
+	margin-top: 49px;
+
+}
+.blue-box3{
+	background: #3D58A6;
+	width: 56px;
+	height: 56px;
+	font-size: 48px;
+	color: white;
+	padding:6px 6px 6px 6px;
+	display: inline-block;
+	margin-top: 49px;
+
+}
+.maisi1{
+	font-size: 28px;
+	color: #3D58A6;
+	margin-top: 10.5px;
+}
+.maisi2{
+	font-size: 28px;
+	color: #3D58A6;
+	margin-top: 10.5px;
+}
+.maisi3{
+	font-size: 28px;
+	color: #3D58A6;
+	margin-top: 10.5px;
+}
+.article1{
+	margin-top: 40.4px;
+}
+.satauri-1{
+	font-size: 20px;
+	color: black;
+	margin-top: 31.3px;
+}
+.satauri-2{
+	font-size: 20px;
+	color: black;
+	margin-top: 31.3px;
+
+}
+.satauri-3{
+	font-size: 20px;
+	color: black;
+	margin-top: 31.3px;
+
+}
+.img1{
+	display:inline-block;
+	margin-right: 38px;
+	vertical-align: top;
+}
+.img2{
+	display:inline-block;
+	margin-right: 38px;
+	vertical-align: top;
+
+}
+.img3{
+	display:inline-block;
+	margin-right: 38px;
+	vertical-align: top;
+
+}
+.art-text-1{
+	display: inline-block;
+	width: 925px;
+	font-size: 16px;
+}
+.art-text-2{
+	display: inline-block;
+	width: 925px;
+	font-size: 16px;
+
+}
+.art-text-3{
+	display: inline-block;
+	width: 925px;
+	font-size: 16px;
+
+}
+.article-box1{
+	margin-top: 22px;
+}
+.article-box2{
+		margin-top: 22px;
+
+}
+.article-box3{
+	margin-top: 22px;
+}
+.lil-icon{
 	height: 30px;
+	display: inline-block;
+	margin-right: 10px;
+}
+.divider{
+	display: inline-block;
+	background-color:   #363E97;
+	width: 0.7px;
+	height: 26px;
+	margin-right: 10px;
+
+}
+.footer-box-1{
+	margin-top: 43px;
+	margin-bottom: 26px;
 }
